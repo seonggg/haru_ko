@@ -1,0 +1,4 @@
+Collecting numpy
+  Using cached numpy-1.19.5-cp36-cp36m-win_amd64.whl (13.2 MB)
+Installing collected packages: numpy
+Successfully installed numpy-1.19.5
